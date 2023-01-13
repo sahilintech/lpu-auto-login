@@ -21,5 +21,5 @@ Getting Started
 
 Note: If you want to convert the application to script please use the following link to convert python file to .exe application. Doing this you will not have to open vs code again to run the script. You can make shortcut in desktop and double click it to auto login.
 
-
+Link for creating .exe file - https://www.geeksforgeeks.org/convert-python-script-to-exe-file/
 
